@@ -1,0 +1,39 @@
+.all{
+    min-height: 900px;
+    background-image: url(../images/rear-view-of-programmer-working-all-night-long.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.info{
+    width: 912px;
+    height: 1000px;
+    margin: 0px auto;
+    padding-top: 14px;
+    background-color: white;
+    border-radius: 12px;
+}
+.head{
+    font-weight: bold;
+    text-align: center;
+    color: #c89316;
+    text-shadow: 3px 3px 6px rgba(150, 150, 150, 1);
+}
+.subhead{
+    width: 850px;
+    font-size: 16px;
+    text-align: justify;
+    margin: 0 auto;
+}
+.video-js{
+    margin: 0 auto;
+}
+.questions{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 15px;
+}
+.work{
+    display: block;
+    margin:0 auto;
+}
